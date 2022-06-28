@@ -1,2 +1,2 @@
 #!/bin/bash
-l
+cp -R  -u -p  *.html $(pwd)/../
